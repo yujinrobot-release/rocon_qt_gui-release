@@ -1,0 +1,12 @@
+Source: ros-indigo-rocon-qt-gui
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://www.ros.org/wiki/rocon_qt_gui
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rocon-qt-gui
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-concert-conductor-graph, ros-indigo-concert-qt-teleop, ros-indigo-rocon-admin-app, ros-indigo-rocon-gateway-graph, ros-indigo-rocon-qt-app-manager, ros-indigo-rocon-qt-library, ros-indigo-rocon-qt-listener, ros-indigo-rocon-qt-master-info, ros-indigo-rocon-qt-teleop, ros-indigo-rocon-remocon
+Description: Qt gui applications for interacting with the rocon framework.
