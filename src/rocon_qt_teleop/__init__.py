@@ -8,4 +8,3 @@
 ##############################################################################
 
 from rocon_qt_teleop.teleop import *
-from rocon_qt_library.interfaces.teleop_interface import *
