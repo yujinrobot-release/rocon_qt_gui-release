@@ -2,6 +2,18 @@
 Changelog for package concert_qt_teleop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.7.2 (2014-11-21)
+------------------
+
+0.7.1 (2014-11-21)
+------------------
+* shutdown_plugin hook to releasing resources resolves `#165 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/165>`_
+* add concert_qt_make_a_map
+* resource chooser and teleop interface are now separated. rocon_teleop and concert_teleop works fine
+* concert teleop  now uese CaptureResource Pair
+* receives cmd vel and image topic from teleop service
+* Contributors: Jihoon Lee
+
 0.7.0 (2014-08-25)
 ------------------
 * teleop namespacing for concert teleop closes `#148 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/148>`_
