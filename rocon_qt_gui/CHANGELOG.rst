@@ -2,6 +2,14 @@
 Changelog for package rocon_rqt_plugins
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.7.2 (2014-11-21)
+------------------
+* add new packages in meta pkg
+* Contributors: Jihoon Lee
+
+0.7.1 (2014-11-21)
+------------------
+
 0.5.4 (2013-09-11)
 ------------------
 * add CHANGELOG files
