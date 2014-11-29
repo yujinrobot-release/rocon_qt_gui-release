@@ -6,8 +6,7 @@
 ##############################################################################
 # Imports
 ##############################################################################
-
-from .camera_view import QCameraView
-from .virtual_joystick_view import QVirtualJoystickView
-from .map_view import QMapView
-
+from .resource_chooser import QResourceChooser
+from .video_teleop import QVideoTeleop
+from .slam_widget import QSlamWidget
+from .map_annotation import QMapAnnotation
