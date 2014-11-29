@@ -9,3 +9,5 @@
 
 from .camera_view import QCameraView
 from .virtual_joystick_view import QVirtualJoystickView
+from .map_view import QMapView
+
