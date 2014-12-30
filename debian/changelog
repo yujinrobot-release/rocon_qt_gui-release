@@ -1,0 +1,120 @@
+ros-indigo-rocon-qt-library (0.7.4-0trusty) trusty; urgency=high
+
+  * update setup.py to install submodules fixes #173 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/173>
+  * Contributors: Jihoon Lee
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 29 Dec 2014 15:00:00 -0000
+
+ros-indigo-rocon-qt-library (0.7.3-0trusty) trusty; urgency=high
+
+  * relocate ar_marker height as waiterbot
+  * force to use lower case and underscore instead of capitals and space in world and map name #167 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/167>
+  * Contributors: Jihoon Lee
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 28 Dec 2014 15:00:00 -0000
+
+ros-indigo-rocon-qt-library (0.7.2-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 20 Nov 2014 15:00:00 -0000
+
+ros-indigo-rocon-qt-library (0.7.1-0trusty) trusty; urgency=high
+
+  * shutdown_plugin hook to releasing resources resolves #165 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/165>
+  * it now reveals gone resource and updates lists Closes #163 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/163>
+  * having lock around resource_item_list to avoid racing condition. close`#161 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/161>`_
+  * pep8 style method names in world_canvas library Fix #159 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/159>
+  * bug fixed
+  * blocks improper save button use
+  * now listworld is available
+  * ignore combobox reset event
+  * remove log
+  * change draw viz_marker
+  * load map implemented
+  * upgrade map drawing
+  * updates mirror transition
+  * adjust x-axis symmetry to annotations
+  * change display method about annotation info at textbox
+  * minor update
+  * updates
+  * add destroyed hook in resource chooser
+  * display unit in ui
+  * create concert qt map annotater
+  * save working
+  * updates
+  * updates
+  * skipping processing scan and robot pose if it didn't receive map
+  * removing unnecessary files
+  * delete usused code
+  * fixed map save btn layout
+  * make slam widget instead of slam view
+  * migrate code into util directory
+  * create rocon qt util and update slam viewer code clean
+  * delete unused code
+  * rendering robot pose and laser scan info
+  * scan and robot pose topic set
+  * add concert_qt_make_a_map
+  * resource chooser and teleop interface are now separated. rocon_teleop and concert_teleop works fine
+  * Contributors: DongWook Lee, Jihoon Lee, dwlee
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 20 Nov 2014 15:00:00 -0000
+
+ros-indigo-rocon-qt-library (0.7.0-0trusty) trusty; urgency=high
+
+  * remove debugging print.
+  * update publisher queue_size to avoid warning in indigo.
+  * rocon_qt_teleop added.
+  * Contributors: Daniel Stonier
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 24 Aug 2014 15:00:00 -0000
+
+ros-indigo-rocon-qt-library (0.5.4-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 10 Sep 2013 15:00:00 -0000
+
+ros-indigo-rocon-qt-library (0.5.3-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-indigo-rocon-qt-library (0.5.2-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 16 Jul 2013 15:00:00 -0000
+
+ros-indigo-rocon-qt-library (0.5.1-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 10 Jun 2013 16:50:50 +0900
+
+ros-indigo-rocon-qt-library (0.5.0-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 26 May 2013 15:00:00 -0000
+
+ros-indigo-rocon-qt-library (0.3.1-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 08 Apr 2013 15:00:00 -0000
+
+ros-indigo-rocon-qt-library (0.3.0-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 04 Feb 2013 15:00:00 -0000
+
+ros-indigo-rocon-qt-library (0.2.0-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Wed, 30 Jan 2013 15:00:00 -0000
+
+
