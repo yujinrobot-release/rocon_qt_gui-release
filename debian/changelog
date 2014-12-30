@@ -1,0 +1,91 @@
+ros-indigo-rocon-qt-app-manager (0.7.4-0trusty) trusty; urgency=high
+
+
+
+ -- Donguk Lee <dwlee@yujinrobot.com>  Mon, 29 Dec 2014 15:00:00 -0000
+
+ros-indigo-rocon-qt-app-manager (0.7.3-0trusty) trusty; urgency=high
+
+
+
+ -- Donguk Lee <dwlee@yujinrobot.com>  Sun, 28 Dec 2014 15:00:00 -0000
+
+ros-indigo-rocon-qt-app-manager (0.7.2-0trusty) trusty; urgency=high
+
+
+
+ -- Donguk Lee <dwlee@yujinrobot.com>  Thu, 20 Nov 2014 15:00:00 -0000
+
+ros-indigo-rocon-qt-app-manager (0.7.1-0trusty) trusty; urgency=high
+
+
+
+ -- Donguk Lee <dwlee@yujinrobot.com>  Thu, 20 Nov 2014 15:00:00 -0000
+
+ros-indigo-rocon-qt-app-manager (0.7.0-0trusty) trusty; urgency=high
+
+  * rename selected to preferred
+  * add selected field. now use name instead of display name
+  * start app logs error if no rapp has selected.
+  * add implementation tree and user can select them to start
+  * Merge conflicts with parameter update
+  * rocon_qt_app_manager UI upgrade
+  * now public parameters are configurable via qt app manager
+  * cleanup comments
+  * rename app to rapp
+  * fixed #92 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/92>
+  * fixed #91 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/91>
+  * make app manager gui
+  * Contributors: DongWook Lee, Jihoon Lee, kentsommer
+
+ -- Donguk Lee <dwlee@yujinrobot.com>  Sun, 24 Aug 2014 15:00:00 -0000
+
+ros-indigo-rocon-qt-app-manager (0.5.4-0trusty) trusty; urgency=high
+
+
+
+ -- Donguk Lee <dwlee@yujinrobot.com>  Tue, 10 Sep 2013 15:00:00 -0000
+
+ros-indigo-rocon-qt-app-manager (0.5.3-0trusty) trusty; urgency=high
+
+
+
+ -- Donguk Lee <dwlee@yujinrobot.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-indigo-rocon-qt-app-manager (0.5.2-0trusty) trusty; urgency=high
+
+
+
+ -- Donguk Lee <dwlee@yujinrobot.com>  Tue, 16 Jul 2013 15:00:00 -0000
+
+ros-indigo-rocon-qt-app-manager (0.5.1-0trusty) trusty; urgency=high
+
+
+
+ -- Donguk Lee <dwlee@yujinrobot.com>  Mon, 10 Jun 2013 16:50:50 +0900
+
+ros-indigo-rocon-qt-app-manager (0.5.0-0trusty) trusty; urgency=high
+
+
+
+ -- Donguk Lee <dwlee@yujinrobot.com>  Sun, 26 May 2013 15:00:00 -0000
+
+ros-indigo-rocon-qt-app-manager (0.3.1-0trusty) trusty; urgency=high
+
+
+
+ -- Donguk Lee <dwlee@yujinrobot.com>  Mon, 08 Apr 2013 15:00:00 -0000
+
+ros-indigo-rocon-qt-app-manager (0.3.0-0trusty) trusty; urgency=high
+
+
+
+ -- Donguk Lee <dwlee@yujinrobot.com>  Mon, 04 Feb 2013 15:00:00 -0000
+
+ros-indigo-rocon-qt-app-manager (0.2.0-0trusty) trusty; urgency=high
+
+
+
+ -- Donguk Lee <dwlee@yujinrobot.com>  Wed, 30 Jan 2013 15:00:00 -0000
+
+
