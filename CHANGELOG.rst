@@ -2,6 +2,16 @@
 Changelog for package rocon_qt_app_manager
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.7.5 (2015-02-09)
+------------------
+* icon enable disable works
+* support remapping
+* start stop works
+* ui sortof look good
+* rapp dialog getting ready
+* icon view ready
+* Contributors: Jihoon Lee
+
 0.7.4 (2014-12-30)
 ------------------
 
