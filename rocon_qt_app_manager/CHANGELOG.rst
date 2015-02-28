@@ -2,6 +2,9 @@
 Changelog for package rocon_qt_app_manager
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.7.6 (2015-02-28)
+------------------
+
 0.7.5 (2015-02-09)
 ------------------
 * icon enable disable works
