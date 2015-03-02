@@ -2,6 +2,9 @@
 Changelog for package concert_admin_app
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.7.7 (2015-03-02)
+------------------
+
 0.7.6 (2015-02-28)
 ------------------
 * fix return values of  setting configuration in admin app
