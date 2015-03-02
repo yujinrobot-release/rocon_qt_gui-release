@@ -1,0 +1,130 @@
+ros-indigo-concert-qt-make-a-map (0.7.7-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 01 Mar 2015 15:00:00 -0000
+
+ros-indigo-concert-qt-make-a-map (0.7.6-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Fri, 27 Feb 2015 15:00:00 -0000
+
+ros-indigo-concert-qt-make-a-map (0.7.5-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 08 Feb 2015 15:00:00 -0000
+
+ros-indigo-concert-qt-make-a-map (0.7.4-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Mon, 29 Dec 2014 15:00:00 -0000
+
+ros-indigo-concert-qt-make-a-map (0.7.3-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 28 Dec 2014 15:00:00 -0000
+
+ros-indigo-concert-qt-make-a-map (0.7.2-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Thu, 20 Nov 2014 15:00:00 -0000
+
+ros-indigo-concert-qt-make-a-map (0.7.1-0trusty) trusty; urgency=high
+
+  * cleanup. sync version
+  * rename service channel
+  * shutdown_plugin hook to releasing resources resolves #165 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/165>
+  * removing unncessary image reosurces
+  * fixing script usage description #162 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/162>
+  * fixing install rule. now install resources and ui directory #162 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/162>
+  * _unset_slam_interface only receives one arguement closes #160 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/160>
+  * blocks improper save button use
+  * updates
+  * create concert qt map annotater
+  * save working
+  * updates
+  * make slam widget instead of slam view
+  * add save_map
+  * scan and robot pose topic set
+  * add concert_qt_make_a_map
+  * Contributors: Jihoon Lee, dwlee
+  * cleanup. sync version
+  * rename service channel
+  * shutdown_plugin hook to releasing resources resolves #165 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/165>
+  * removing unncessary image reosurces
+  * fixing script usage description #162 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/162>
+  * fixing install rule. now install resources and ui directory #162 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/162>
+  * _unset_slam_interface only receives one arguement closes #160 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/160>
+  * blocks improper save button use
+  * updates
+  * create concert qt map annotater
+  * save working
+  * updates
+  * make slam widget instead of slam view
+  * add save_map
+  * scan and robot pose topic set
+  * add concert_qt_make_a_map
+  * Contributors: Jihoon Lee, dwlee
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Thu, 20 Nov 2014 15:00:00 -0000
+
+ros-indigo-concert-qt-make-a-map (0.7.0-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 24 Aug 2014 15:00:00 -0000
+
+ros-indigo-concert-qt-make-a-map (0.5.4-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Tue, 10 Sep 2013 15:00:00 -0000
+
+ros-indigo-concert-qt-make-a-map (0.5.3-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-indigo-concert-qt-make-a-map (0.5.2-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Tue, 16 Jul 2013 15:00:00 -0000
+
+ros-indigo-concert-qt-make-a-map (0.5.1-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Mon, 10 Jun 2013 16:50:50 +0900
+
+ros-indigo-concert-qt-make-a-map (0.5.0-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 26 May 2013 15:00:00 -0000
+
+ros-indigo-concert-qt-make-a-map (0.3.1-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Mon, 08 Apr 2013 15:00:00 -0000
+
+ros-indigo-concert-qt-make-a-map (0.3.0-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Mon, 04 Feb 2013 15:00:00 -0000
+
+ros-indigo-concert-qt-make-a-map (0.2.0-0trusty) trusty; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Wed, 30 Jan 2013 15:00:00 -0000
+
+
