@@ -1,0 +1,108 @@
+ros-indigo-rocon-qt-listener (0.7.8-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 22 Mar 2015 15:00:00 -0000
+
+ros-indigo-rocon-qt-listener (0.7.7-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 01 Mar 2015 15:00:00 -0000
+
+ros-indigo-rocon-qt-listener (0.7.6-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Fri, 27 Feb 2015 15:00:00 -0000
+
+ros-indigo-rocon-qt-listener (0.7.5-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 08 Feb 2015 15:00:00 -0000
+
+ros-indigo-rocon-qt-listener (0.7.4-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 29 Dec 2014 15:00:00 -0000
+
+ros-indigo-rocon-qt-listener (0.7.3-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 28 Dec 2014 15:00:00 -0000
+
+ros-indigo-rocon-qt-listener (0.7.2-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 20 Nov 2014 15:00:00 -0000
+
+ros-indigo-rocon-qt-listener (0.7.1-0trusty) trusty; urgency=high
+
+  * cleanup. sync version
+  * Contributors: Jihoon Lee
+  * cleanup. sync version
+  * Contributors: Jihoon Lee
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 20 Nov 2014 15:00:00 -0000
+
+ros-indigo-rocon-qt-listener (0.7.0-0trusty) trusty; urgency=high
+
+  * gracefully handle sigints so we don't leave zombie nodes around, #104 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/104>
+  * added the rocon qt listener program (useful for testing).
+  * Contributors: Daniel Stonier
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 24 Aug 2014 15:00:00 -0000
+
+ros-indigo-rocon-qt-listener (0.5.4-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 10 Sep 2013 15:00:00 -0000
+
+ros-indigo-rocon-qt-listener (0.5.3-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-indigo-rocon-qt-listener (0.5.2-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 16 Jul 2013 15:00:00 -0000
+
+ros-indigo-rocon-qt-listener (0.5.1-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 10 Jun 2013 16:50:50 +0900
+
+ros-indigo-rocon-qt-listener (0.5.0-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 26 May 2013 15:00:00 -0000
+
+ros-indigo-rocon-qt-listener (0.3.1-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 08 Apr 2013 15:00:00 -0000
+
+ros-indigo-rocon-qt-listener (0.3.0-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 04 Feb 2013 15:00:00 -0000
+
+ros-indigo-rocon-qt-listener (0.2.0-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Wed, 30 Jan 2013 15:00:00 -0000
+
+
