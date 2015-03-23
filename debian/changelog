@@ -1,0 +1,126 @@
+ros-indigo-concert-admin-app (0.7.8-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 22 Mar 2015 15:00:00 -0000
+
+ros-indigo-concert-admin-app (0.7.7-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 01 Mar 2015 15:00:00 -0000
+
+ros-indigo-concert-admin-app (0.7.6-0trusty) trusty; urgency=high
+
+  * fix return values of  setting configuration in admin app
+  * Contributors: dwlee
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Fri, 27 Feb 2015 15:00:00 -0000
+
+ros-indigo-concert-admin-app (0.7.5-0trusty) trusty; urgency=high
+
+  * fix return value regarding service profile update function
+  * update ros service and subscriber init function
+  * Contributors: dwlee
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 08 Feb 2015 15:00:00 -0000
+
+ros-indigo-concert-admin-app (0.7.4-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 29 Dec 2014 15:00:00 -0000
+
+ros-indigo-concert-admin-app (0.7.3-0trusty) trusty; urgency=high
+
+  * remove leading and ending white space in parameter closes #168 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/168>
+  * Contributors: Jihoon Lee
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 28 Dec 2014 15:00:00 -0000
+
+ros-indigo-concert-admin-app (0.7.2-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 20 Nov 2014 15:00:00 -0000
+
+ros-indigo-concert-admin-app (0.7.1-0trusty) trusty; urgency=high
+
+  * cleanup. sync version
+  * fix conflicts merging indigo back into make a map.
+  * add message box and save config button disable when service is started
+  * update save configuration button eable/disable when eabling service and create back up of parameter file when saving configuration
+  * change ui and add parameter setting ui
+  * update concert_admin_app
+  * update save configuration button eable/disable when eabling service and create back up of parameter file when saving configuration
+  * change ui and add parameter setting ui
+  * update concert_admin_app
+  * Contributors: Daniel Stonier, Jihoon Lee, dwlee
+  * cleanup. sync version
+  * fix conflicts merging indigo back into make a map.
+  * add message box and save config button disable when service is started
+  * update save configuration button eable/disable when eabling service and create back up of parameter file when saving configuration
+  * change ui and add parameter setting ui
+  * update concert_admin_app
+  * update save configuration button eable/disable when eabling service and create back up of parameter file when saving configuration
+  * change ui and add parameter setting ui
+  * update concert_admin_app
+  * Contributors: Daniel Stonier, Jihoon Lee, dwlee
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 20 Nov 2014 15:00:00 -0000
+
+ros-indigo-concert-admin-app (0.7.0-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 24 Aug 2014 15:00:00 -0000
+
+ros-indigo-concert-admin-app (0.5.4-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 10 Sep 2013 15:00:00 -0000
+
+ros-indigo-concert-admin-app (0.5.3-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-indigo-concert-admin-app (0.5.2-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Tue, 16 Jul 2013 15:00:00 -0000
+
+ros-indigo-concert-admin-app (0.5.1-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 10 Jun 2013 16:50:50 +0900
+
+ros-indigo-concert-admin-app (0.5.0-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Sun, 26 May 2013 15:00:00 -0000
+
+ros-indigo-concert-admin-app (0.3.1-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 08 Apr 2013 15:00:00 -0000
+
+ros-indigo-concert-admin-app (0.3.0-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Mon, 04 Feb 2013 15:00:00 -0000
+
+ros-indigo-concert-admin-app (0.2.0-0trusty) trusty; urgency=high
+
+
+
+ -- Daniel Stonier <d.stonier@gmail.com>  Wed, 30 Jan 2013 15:00:00 -0000
+
+
