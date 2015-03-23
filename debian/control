@@ -1,0 +1,12 @@
+Source: ros-indigo-rocon-qt-library
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <d.stonier@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://ros.org/wiki/concert_qt_library
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rocon-qt-library
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-rospkg, ros-indigo-qt-gui-py-common, ros-indigo-rocon-bubble-icons, ros-indigo-rocon-console, ros-indigo-rospy, ros-indigo-rospy-message-converter, ros-indigo-rqt-gui, ros-indigo-rqt-gui-py, ros-indigo-world-canvas-client-py, ros-indigo-world-canvas-msgs
+Description: Common widgets and modules for rocon qt development.
