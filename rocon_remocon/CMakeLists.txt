@@ -26,18 +26,17 @@ install(
     PROGRAMS 
         scripts/rocon_remocon_check_up
         scripts/rocon_remocon_sub
-    DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
-)
-
-install(
-    PROGRAMS 
         scripts/rocon_remocon
         scripts/rqt_remocon
-    DESTINATION ${CATKIN_GLOBAL_BIN_DESTINATION}
+    DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 
 install(
     DIRECTORY ui
     DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
+)
+
+install(DIRECTORY resources
+  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 )
 
