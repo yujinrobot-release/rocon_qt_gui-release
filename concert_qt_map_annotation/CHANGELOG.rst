@@ -2,6 +2,12 @@
 Changelog for package concert_qt_map_annotation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.7.10 (2015-04-27)
+-------------------
+* it errors if necessary param does not exist `#186 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/186>`_
+* configure world canvas param closes `#186 <https://github.com/robotics-in-concert/rocon_qt_gui/issues/186>`_
+* Contributors: Jihoon Lee
+
 0.7.9 (2015-03-30)
 ------------------
 
