@@ -56,14 +56,16 @@ class MakeAMap(Plugin):
         self._default_map_topic = 'map'
         self._default_scan_topic = '/make_a_map/scan'
         self._default_robot_pose = 'robot_pose'
+        self._default_wc_namespace_param = 'wc_namespace'
         self._default_wc_namespace = 'world_canvas'
 
     def _set_resource_chooser_interface(self):
         capture_timeout = rospy.get_param('~capture_timeout', 15.0)
+        service_name = rospy.get_param('~service_name')
 
         # TODO : Make it configurable
-        available_resource_topic = '/services/indoor_2d_map_prep/available_make_a_map'
-        capture_resource_pair_topic = '/services/indoor_2d_map_prep/capture_make_a_map'
+        available_resource_topic = '/services/%s/available_make_a_map'%service_name
+        capture_resource_pair_topic = '/services/%s/capture_make_a_map'%service_name
         capture_resource_callbacks = [self._widget.resource_chooser_widget.capture_resource_callback, self._init_teleop_interface, self._set_slam_view_interface]
         release_resource_callbacks = [self._widget.resource_chooser_widget.release_resource_callback, self._uninit_teleop_interface]
         error_resource_callbacks = [self._widget.resource_chooser_widget.error_resource_callback]
@@ -102,7 +104,8 @@ class MakeAMap(Plugin):
             scan_slot = self._widget.slam_widget.draw_scan
             robot_pose_slot = self._widget.slam_widget.draw_robot_pose
 
-            wc_namespace = rospy.get_param('~wc_namespace', self._default_wc_namespace)
+            wc_namespace_param = rospy.get_param('~wc_namespace_param')
+            wc_namespace = rospy.get_param(wc_namespace_param, self._default_wc_namespace)
             map_topic = self._get_remaps(self._default_map_topic , msg.remappings)
             scan_topic = self._get_remaps(self._default_scan_topic, msg.remappings)
             robot_pose_topic = self._get_remaps(self._default_robot_pose, msg.remappings)
